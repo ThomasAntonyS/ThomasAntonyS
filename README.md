@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomasAntonyS
-- 👀 I’m interested in Web development 
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Frontend Development
 
 <!---
