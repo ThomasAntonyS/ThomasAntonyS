@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasAntonyS
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I’m currently learning Full Stack Technologies and Cloud.
 
 
 
